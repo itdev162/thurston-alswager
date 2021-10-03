@@ -1,0 +1,14 @@
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\API.dll
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.dll
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.pdb
