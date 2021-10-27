@@ -12,3 +12,10 @@ C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
 C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
 C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.dll
 C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\Application.dll
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\Domain.dll
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\Persistence.dll
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\Application.pdb
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\itdev162\thurston-alswager\API\bin\Debug\netcoreapp2.2\Persistence.pdb
+C:\itdev162\thurston-alswager\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
