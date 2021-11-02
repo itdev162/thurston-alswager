@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Application.Posts;
@@ -12,6 +13,7 @@ namespace API.Controllers
     public class PostsController : ControllerBase
     {
         private readonly IMediator mediator;
+        
         public PostsController(IMediator mediator) => this.mediator = mediator;
 
         public async Task<ActionResult<List<Post>>> List()
